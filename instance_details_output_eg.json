@@ -1,0 +1,9 @@
+{
+    "Aws_Ec2_Instance":  {
+                             "aws_instance_public_ip":  "3.86.231.37",
+                             "aws_instance_imageId":  "ami-0c02fb55956c7d316",
+                             "aws_instance_private_ip":  "172.31.90.220",
+                             "aws_instance_id":  "i-0ec82bb87085f9191",
+                             "aws_instance_type":  "t2.micro"
+                         }
+}
